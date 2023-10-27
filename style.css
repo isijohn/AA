@@ -1,0 +1,179 @@
+/* style for the first navbar */
+.banner1{
+    display: flex;
+    background-color: #2A3855;
+    height: 35px;
+    }
+    
+    .banner1 h6{
+        color: #fff;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    
+    .time{
+        margin: 10px 0 0 550px ! important;
+    }
+    
+    .address{
+        margin-left: 100px;
+    }
+    .num{
+        margin-left: 30px;
+    }
+    .purchase-button{
+        border: 3px solid #2A3855;
+        border-radius: 20px; width: 100px; height: 35px;
+        margin-bottom: 7px;
+
+    }
+
+    .purchase-button{
+    position: relative;
+    display: inline-block;
+}
+.purchase-button {
+    position: absolute;
+    top: 50%;
+    left: 95%;
+    transform: translate(-50%, -50%);
+}
+    
+    
+h1 {
+    
+    display: inline-block;
+    position: absolute;
+    top:20%;
+    left: 10%;
+    transform: translate -50%, -50%;
+}
+h3 {
+    display: inline-block;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    transform: translate (-50%, -50%);
+}
+.button-pix {
+    display: inline-block;
+    position: absolute;
+    top: 48%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+   
+    h4 {
+        position: relative;
+        display: inline-block;
+        position: absolute;
+        top: 25%;
+        left: 10%;
+        transform: translate (-50%, -50%);
+    }
+
+    .button-pixtwo {
+        position: relative;
+        display: inline-block;
+    }
+    .button-pixtwo {
+        position: absolute;
+       top: 45%;
+       left: 20%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .button-pixthree {
+        position: relative;
+        display: inline-block;
+    }
+    .button-pixthree {
+        position: absolute;
+       top: 40%;
+       left: 20%;
+        transform: translate(-50%, -50%);
+    }
+   
+   .HeaderSubtext {
+    display: inline-block;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    transform: translate (-50%, -50%);
+
+   }
+       
+.read-button{
+        background-color: #2A3855;
+        color: white ;
+        height: 40px;
+        width: 120px;
+        border: none;
+        border-radius: 5px;
+     }
+    
+    
+.contact-button{
+    background-color: #fdd428;
+    color: black ;
+    height: 40px;
+    width: 120px ;
+    border: none;
+    border-radius: 5px;
+}
+    
+.containerOne {
+    
+    text-align: center;
+    transform: translate (-50%, -50%);
+}   
+.HorizontalLine {
+    height: 2px; 
+    background-color: #2A3855 ;
+    width: 60px; 
+}
+.container blue {
+    text-align: center;
+}
+.Containertwo {
+    position: absolute;
+    left: 10%;
+    top: 460%;
+    transform: translate(-50%, -50%);
+}
+
+.red{
+ text-align: center !important; 
+}
+/*--design for image after center text--*/
+.slittingImg { 
+position: relative;
+top: 1%;
+  left: 30%;
+    height: 40px;
+    width: 40px;
+   align-content: center;
+}
+.SmallImgText {
+    text-align: center !important;
+}
+.slittingImgA { 
+position: relative;
+top: 20%;
+  left: 0%;
+    height: 20px;
+    width: 20px;
+}
+.SmallImgTextA {
+    position: relative;
+  top: 1%;
+  left: 10%;
+}
+.HorizontalLineA {
+    position: relative;
+    top: 0%;
+    left: 0%;
+    height: 2px; 
+    background-color: #2A3855 ;
+    width: 60px; 
+}
